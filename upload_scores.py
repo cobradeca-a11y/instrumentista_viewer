@@ -30,7 +30,7 @@ SCORES = [
 def upload():
     if not SUPABASE_SERVICE_KEY:
         print("ERRO: defina a variável SUPABASE_SERVICE_KEY")
-        print("  export SUPABASE_SERVICE_KEY='sua_service_role_key_aqui'")
+        print("  export SUPABASE_SERVICE_KEY='sua_service_role_key'")
         sys.exit(1)
 
     try:
