@@ -1,0 +1,1891 @@
+{
+  "id": "cordeiro-eterno",
+  "title": "Cordeiro Eterno",
+  "composer": "",
+  "key": "C",
+  "key_root": "C",
+  "key_mode": "major",
+  "meter": "4/4",
+  "bpm": "",
+  "difficulty": 2,
+  "tags": [
+    "Louvor",
+    "Médio"
+  ],
+  "sections": [
+    {
+      "id": "linear",
+      "label": "Linear",
+      "lines": [
+        [
+          {
+            "text": "Cor-",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 1,
+            "bi": 0
+          },
+          {
+            "text": "dei",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "ro",
+            "chord": null,
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "e",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "ter",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "no,",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "vi",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 1,
+            "bi": 0
+          },
+          {
+            "text": "es",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "- te",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "pra",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "me",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "Cor",
+            "chord": null,
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "-",
+            "chord": "A9",
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "dei",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "-",
+            "chord": "A",
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "ro",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "e",
+            "chord": "Am6(add9)",
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "ter",
+            "chord": null,
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "no,",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "no,",
+            "chord": "G#m/B",
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "vi -",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "es",
+            "chord": "A/B",
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "- te",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "pra",
+            "chord": "G#m/B",
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "pra",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "me",
+            "chord": "A/B",
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "me",
+            "chord": "B7",
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "dar",
+            "chord": "E9",
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "tua",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "vi",
+            "chord": "B7(add9)",
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "da,",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "teu",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "san",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "-",
+            "chord": "A9",
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "gue,",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "pra",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "queeupu",
+            "chord": "G#m7",
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "queeupu",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "-",
+            "chord": "C#m7",
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "des",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "se",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "ter",
+            "chord": "F#m7",
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "ter",
+            "chord": "G#m7A",
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "a",
+            "chord": "A#m7(b5)",
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "dar",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "tua",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "vi -",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "teu",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "san",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "gue,",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "pra",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "queeupu",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "des",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "se",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "ter",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "a",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "vi-dae",
+            "chord": "B",
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "ter",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "na",
+            "chord": "A9",
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "eo",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "per",
+            "chord": null,
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "dão,",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "a",
+            "chord": "G#m7",
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "a",
+            "chord": "C#m7",
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "cu-ra,a",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "paz,",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "paz,",
+            "chord": "F#m7",
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "li",
+            "chord": "A",
+            "beat": 1,
+            "bi": 0
+          },
+          {
+            "text": "li",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "ber-ta",
+            "chord": "A#m7(b5)",
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "-",
+            "chord": "B",
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "ção,",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "Cor-",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "vi-dae",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "ter",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "na",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "eo",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "per",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "dão,",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "a",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "cu-ra,a",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "paz,",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "li",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "ber-ta",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "ção,",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "Cor-",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "dei",
+            "chord": "E9",
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "ro",
+            "chord": "E",
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "e",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "ter",
+            "chord": "Dm(maj7b5)/F",
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "no",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "de",
+            "chord": "A9",
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "Deus",
+            "chord": "A",
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "E",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "dei",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "ro",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "e",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "ter",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "de",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "Deus",
+            "chord": null,
+            "beat": 1,
+            "bi": 0
+          },
+          {
+            "text": "E",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "ho",
+            "chord": "G#m/B",
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "je",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "je",
+            "chord": "A/B",
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "teu",
+            "chord": null,
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "san",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "-",
+            "chord": "G#m/B",
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "gue",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "es",
+            "chord": "A/B",
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "es",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "tá",
+            "chord": "B7",
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "tá",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "a",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "gin",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "doem",
+            "chord": null,
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "mim,",
+            "chord": null,
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "lim",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "ho",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "je",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "teu",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "san",
+            "chord": null,
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "gue",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "es",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "tá",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "a",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "gin",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "doem",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "mim,",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "lim",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "pan",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "do,",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "cu",
+            "chord": null,
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "ran",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "do,",
+            "chord": null,
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "mu",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "dan-do",
+            "chord": null,
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "o",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "meu",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "ser;",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "oh!",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "Que",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "Que",
+            "chord": "A9",
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "po",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "der",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "e",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "vi-da",
+            "chord": null,
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "há",
+            "chord": "C#m7",
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "há",
+            "chord": null,
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "no",
+            "chord": "F#m7",
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "san-gue",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "que",
+            "chord": "A",
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "que",
+            "chord": "G#m7",
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "Je",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "-",
+            "chord": "A#m7(b5)",
+            "beat": 1,
+            "bi": 0
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "sus",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "sus",
+            "chord": "B",
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "ver",
+            "chord": null,
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "Cor-",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "Que",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "po -",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "der",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "e",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "vi-da",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "há",
+            "chord": null,
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "no",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "san-gue",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "que",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "Je",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "sus",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "ver",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "teu,",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "Cor-",
+            "chord": null,
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "dei",
+            "chord": "E9",
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "ro",
+            "chord": "E",
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "e",
+            "chord": null,
+            "beat": 1,
+            "bi": 0
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "ter",
+            "chord": "Dm(maj7b5)/F",
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "no",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "de",
+            "chord": "A9",
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "de",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "Deus",
+            "chord": "A",
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "Oh!",
+            "chord": "Am6(add9)",
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "Oh!",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "dei",
+            "chord": null,
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "ro",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "e -",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "ter",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "no",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "de",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "Deus",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "Oh!",
+            "chord": null,
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "Que",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "po",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "- der",
+            "chord": "G#m/B",
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "e",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "vi-da",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "há",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "há",
+            "chord": "G#m/B",
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "no",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "no",
+            "chord": "B7",
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "san-gue",
+            "chord": null,
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "que",
+            "chord": "E9",
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "que",
+            "chord": null,
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "Je -",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "sus",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "ver",
+            "chord": "B7(add9)",
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "teu,",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "Cor-",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "Que",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "po -",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "der",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "e",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "vi-da",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "há",
+            "chord": null,
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "no",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "san-gue",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "que",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "Je",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "sus",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "ver",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "teu,",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "Cor-",
+            "chord": null,
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "dei -",
+            "chord": "E9",
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "ro",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "e",
+            "chord": "E",
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "e -",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "ter - no",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "de",
+            "chord": "Dm(maj7b5)/F",
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "Deus",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "Cor-dei",
+            "chord": null,
+            "beat": 1,
+            "bi": 0
+          },
+          {
+            "text": "Cor-dei",
+            "chord": "A",
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 1,
+            "bi": 0
+          },
+          {
+            "text": "ro",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "e",
+            "chord": null,
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "ter",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "-",
+            "chord": "Am6(add9)",
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "no",
+            "chord": null,
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "de",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "Deus",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "dei -",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "ro",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "e -",
+            "chord": null,
+            "beat": 4,
+            "bi": 6
+          },
+          {
+            "text": "ter - no",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "de",
+            "chord": null,
+            "beat": 2,
+            "bi": 2
+          },
+          {
+            "text": "Deus",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "Cor-dei",
+            "chord": null,
+            "beat": 1,
+            "bi": 0
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 2,
+            "bi": 3
+          },
+          {
+            "text": "ro",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "e",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "ter",
+            "chord": null,
+            "beat": 3,
+            "bi": 5
+          },
+          {
+            "text": "-",
+            "chord": null,
+            "beat": 1,
+            "bi": 0
+          },
+          {
+            "text": "no",
+            "chord": null,
+            "beat": 1,
+            "bi": 1
+          },
+          {
+            "text": "de",
+            "chord": null,
+            "beat": 3,
+            "bi": 4
+          },
+          {
+            "text": "Deus",
+            "chord": null,
+            "beat": 4,
+            "bi": 7
+          }
+        ]
+      ]
+    }
+  ]
+}
