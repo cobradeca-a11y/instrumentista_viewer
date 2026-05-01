@@ -1,4 +1,4 @@
-import { Target, Lightbulb, AlertTriangle } from "lucide-react";;
+import { Target, Lightbulb, AlertTriangle } from "lucide-react";
 import type { NivelPedagogico } from "../../types/music";
 
 interface ObjectivePanelProps {

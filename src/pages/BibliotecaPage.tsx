@@ -1,7 +1,7 @@
-import { useState } from "react";;
-import { useNavigate } from "react-router-dom";;
-import { Search, ChevronRight, Music, AlertCircle } from "lucide-react";;
-import { LOUVORES } from "../data/louvores";;
+import { useState } from "react";
+import { useNavigate } from "react-router-dom";
+import { Search, ChevronRight, Music, AlertCircle } from "lucide-react";
+import { LOUVORES } from "../data/louvores";
 import type { Louvor, NivelPedagogico, StatusLouvor } from "../types/music";
 ;
 import Sidebar from "../components/layout/Sidebar";

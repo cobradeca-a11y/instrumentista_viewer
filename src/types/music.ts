@@ -15,7 +15,7 @@ export interface SegmentoMusical {
   funcaoHarmonica: string | null;
   analise: string | null;
   dinamica: string | null;
-  linhaModalica: boolean;
+  linhaMelodica: boolean;
 }
 
 export interface CompassoMusical {
@@ -69,6 +69,13 @@ export interface ConfiguracaoDePratica {
   exibirSubdivisao: boolean;
   metronomeAtivo: boolean;
   metronomeComSom: boolean;
+}
+
+export interface FerramentaPedagogica {
+  id: string;
+  label: string;
+  niveis: NivelPedagogico[];
+  ativa: boolean;
 }
 
 export interface ArquivoPersistido {

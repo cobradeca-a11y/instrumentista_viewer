@@ -1,6 +1,6 @@
 // src/services/midiService.ts
 import * as Tone from "tone";
-import { Midi } from "@tonejs/midi";;
+import { Midi } from "@tonejs/midi";
 
 interface MidiState {
   midi: Midi | null;
@@ -28,7 +28,16 @@ const state: MidiState = {
   bpm: 120,
 };
 
-// Synths pool
+// Master volume node — controls all synths
+let masterVolume: Tone.Volume | null = null;
+
+function getMasterVolume(): Tone.Volume {
+  if (!masterVolume) {
+    masterVolume = new Tone.Volume(Tone.gainToDb(state.volume)).toDestination();
+  }
+  return masterVolume;
+}
+
 const synths: Tone.PolySynth[] = [];
 let progressInterval: ReturnType<typeof setInterval> | null = null;
 let onProgressCb: ((t: number) => void) | null = null;
@@ -36,6 +45,7 @@ let onProgressCb: ((t: number) => void) | null = null;
 function clearSynths() {
   synths.forEach((s) => {
     s.releaseAll();
+    s.disconnect();
     s.dispose();
   });
   synths.length = 0;
@@ -77,16 +87,18 @@ export async function playMidi(onProgress?: (t: number) => void) {
   Tone.getTransport().cancel();
   Tone.getTransport().stop();
 
+  const mv = getMasterVolume();
+  mv.volume.value = Tone.gainToDb(state.volume);
+
   const startOffset = state.loopStart ?? 0;
   Tone.getTransport().seconds = startOffset;
   Tone.getTransport().bpm.value = state.bpm;
-  // volume applied per synth
 
   state.midi.tracks.forEach((track) => {
     const synth = new Tone.PolySynth(Tone.Synth, {
       oscillator: { type: "triangle" },
       envelope: { attack: 0.02, decay: 0.1, sustain: 0.5, release: 0.8 },
-    }).toDestination();
+    }).connect(mv);
     synths.push(synth);
 
     track.notes.forEach((note) => {
@@ -148,7 +160,9 @@ export function stopMidi() {
 
 export function setVolume(value: number) {
   state.volume = Math.max(0, Math.min(1, value));
-  // volume applied per synth
+  if (masterVolume) {
+    masterVolume.volume.value = Tone.gainToDb(state.volume);
+  }
 }
 
 export function setBpm(value: number) {

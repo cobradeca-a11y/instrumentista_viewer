@@ -1,5 +1,5 @@
 import type { DadosProfissionais } from "../../types/music";
-import { Layers, Users, Shuffle, BookOpen, AlertTriangle, Wrench } from "lucide-react";;
+import { Layers, Users, Shuffle, BookOpen, AlertTriangle, Wrench } from "lucide-react";
 
 interface ProfessionalArrangementPanelProps {
   dados: DadosProfissionais;
